@@ -15,9 +15,8 @@ and Anupama Narayanswamy of The Sunlight Foundation.
 Sunlight study:
 http://realtime.sunlightprojects.org/2008/08/14/mark-warner-biggest-recipient-of-lobbyist-dough-new-disclosures-show-so-far/
 
-Simple analysis tasks
-could then be scripted to output as schedule XLS dumps, email alerts or maybe
-even Django-ifed HTML. 
+Simple analysis tasks could then be scripted to output as schedule XLS dumps,
+email alerts or maybe even Django-ifed HTML. 
 
 Source URL:
 http://www.senate.gov/legislative/Public_Disclosure/contributions_download.htm

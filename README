@@ -1,0 +1,11 @@
+A script that fetches, parses and archives the XML data dumps of lobbyist's
+political contributions published by The Senate Office of Public Records.
+ 
+Zips files containing the XML are:
+1. Downloaded and unzipped.
+2. Parsed out into flat text files and stored in a timestamped folder structure.
+3. Imported to a SQLite database.
+ 
+The ultimate goal is for a series of SQL statements to scrub and cut the data
+to account for flaws in the reporting system first uncovered by Bill Allison
+and Anupama Narayanswamy of The Sunlight Foundation.
